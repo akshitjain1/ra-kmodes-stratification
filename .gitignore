@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+env/
+venv/
+
+# Data folders (large)
+data/raw/
+notebooks/
+
+# Streamlit logs
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db

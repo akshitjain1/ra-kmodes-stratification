@@ -1,0 +1,831 @@
+Gender,Race,BRI_Grp,PhysicalActivity,SmokingStatus,DrinkingStatus,FamilyIncome,MaritalStatus,EducationLevel,Hypertension,Diabetes,Hyperlipidemia,AgeGroup,BMI_Category,Cluster
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,60+,Overweight,2
+Female,Mexican American,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Current,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,50-59,Normal,3
+Female,Other,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR > 3.5,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,3
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Prediabetes,Hyperlipidemia,40-49,Overweight,3
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Frequent drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Frequent drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Female,Other,"(4.924, 6.477]",Vigorous activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,2
+Female,Other,"(4.924, 6.477]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,60+,Normal,4
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,0
+Male,Non-Hispanic White,"(3.666, 4.924]",Vigorous activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,30-39,Overweight,0
+Male,Other,"[1.049, 3.666]",Other,Former,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Normal,1
+Male,Non-Hispanic Black,"(3.666, 4.924]",Vigorous activity,Former,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Overweight,1
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(4.924, 6.477]",Vigorous activity,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Normal,3
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,0
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic White,"(3.666, 4.924]",Other,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Overweight,3
+Female,Mexican American,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Diabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Current,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,30-39,Obese,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Diabetes,Hyperlipidemia,50-59,Obese,3
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Normal,50-59,Obese,2
+Female,Other,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Mexican American,"(4.924, 6.477]",Other,Never,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Normal,50-59,Overweight,3
+Female,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Normal,60+,Normal,2
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Obese,0
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,40-49,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Obese,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Former,Almost non-drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Prediabetes,Hyperlipidemia,50-59,Obese,2
+Male,Non-Hispanic White,"(4.924, 6.477]",Sedentary,Former,Frequent drinker,"(1.3,3.5]",Living Alone,Below high school,Normal,Normal,Hyperlipidemia,60+,Overweight,1
+Female,Mexican American,"(6.477, 20.970]",Other,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"(3.666, 4.924]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Normal,60+,Normal,2
+Male,Non-Hispanic White,"(3.666, 4.924]",Other,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,30-39,Overweight,3
+Female,Other,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Vigorous activity,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Vigorous activity,Never,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Obese,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic White,"[1.049, 3.666]",Other,Current,Frequent drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Normal,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,40-49,Obese,2
+Female,Non-Hispanic Black,"(3.666, 4.924]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Normal,40-49,Overweight,3
+Male,Non-Hispanic Black,"[1.049, 3.666]",Other,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Normal,0
+Female,Non-Hispanic White,"(3.666, 4.924]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,60+,Normal,4
+Female,Non-Hispanic Black,"(4.924, 6.477]",Sedentary,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,50-59,Overweight,4
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Current,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Overweight,4
+Male,Non-Hispanic Black,"(6.477, 20.970]",Vigorous activity,Former,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Normal,Diabetes,Hyperlipidemia,60+,Obese,1
+Male,Other,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Other,"[1.049, 3.666]",Vigorous activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,18-29,Normal,3
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Male,Mexican American,"(6.477, 20.970]",Vigorous activity,Never,Frequent drinker,PIR > 3.5,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Obese,1
+Female,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,2
+Male,Other,"(3.666, 4.924]",Other,Former,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Normal,0
+Female,Other,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Diabetes,Hyperlipidemia,40-49,Obese,0
+Female,Non-Hispanic Black,"[1.049, 3.666]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,50-59,Underweight,3
+Female,Other,"(6.477, 20.970]",Vigorous activity,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,40-49,Obese,0
+Male,Other,"[1.049, 3.666]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Normal,60+,Normal,1
+Male,Non-Hispanic Black,"[1.049, 3.666]",Vigorous activity,Current,Almost non-drinker,PIR > 3.5,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,2
+Female,Other,"(3.666, 4.924]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,2
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Other,"(4.924, 6.477]",Sedentary,Former,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,1
+Male,Non-Hispanic White,"[1.049, 3.666]",Moderate activity,Current,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Hyperlipidemia,18-29,Normal,3
+Female,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Hyperlipidemia,50-59,Overweight,3
+Female,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Prediabetes,Normal,40-49,Obese,3
+Female,Other,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living Alone,High school graduate,Normal,Diabetes,Hyperlipidemia,60+,Overweight,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,40-49,Obese,3
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Diabetes,Hyperlipidemia,50-59,Overweight,4
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic White,"[1.049, 3.666]",Other,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,0
+Female,Non-Hispanic Black,"(3.666, 4.924]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Overweight,3
+Male,Mexican American,"(4.924, 6.477]",Other,Never,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Prediabetes,Normal,50-59,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Male,Mexican American,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Prediabetes,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Former,Almost non-drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,30-39,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Diabetes,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic Black,"(3.666, 4.924]",Vigorous activity,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,2
+Female,Other,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,2
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Current,Occasional drinker,PIR > 3.5,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Other,"(3.666, 4.924]",Other,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Normal,3
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(3.666, 4.924]",Vigorous activity,Never,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Obese,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Vigorous activity,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Diabetes,Hyperlipidemia,60+,Overweight,3
+Female,Non-Hispanic White,"(3.666, 4.924]",Other,Current,Frequent drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Normal,3
+Male,Non-Hispanic Black,"[1.049, 3.666]",Sedentary,Current,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,50-59,Normal,3
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,1
+Female,Other,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Male,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Normal,60+,Overweight,1
+Female,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Current,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,30-39,Overweight,3
+Male,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"[1.049, 3.666]",Other,Former,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Prediabetes,Normal,30-39,Normal,2
+Male,Non-Hispanic White,"(3.666, 4.924]",Vigorous activity,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Overweight,1
+Female,Other,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Normal,50-59,Overweight,4
+Female,Non-Hispanic Black,"(4.924, 6.477]",Sedentary,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Female,Other,"(4.924, 6.477]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,0
+Female,Mexican American,"(6.477, 20.970]",Other,Former,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Current,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Diabetes,Hyperlipidemia,50-59,Normal,4
+Female,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Normal,2
+Female,Mexican American,"(6.477, 20.970]",Other,Current,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,30-39,Obese,1
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Normal,60+,Obese,2
+Female,Other,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Normal,60+,Overweight,4
+Female,Other,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Diabetes,Normal,60+,Overweight,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,1
+Male,Non-Hispanic Black,"(3.666, 4.924]",Vigorous activity,Current,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Normal,50-59,Overweight,1
+Female,Mexican American,"(4.924, 6.477]",Other,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Diabetes,Hyperlipidemia,50-59,Overweight,3
+Female,Non-Hispanic White,"[1.049, 3.666]",Other,Former,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,60+,Normal,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,40-49,Obese,2
+Female,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Normal,60+,Obese,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Current,Frequent drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,2
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Former,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,40-49,Overweight,4
+Male,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Normal,60+,Overweight,1
+Male,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Current,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Diabetes,Normal,50-59,Overweight,0
+Male,Mexican American,"(4.924, 6.477]",Other,Current,Frequent drinker,PIR > 3.5,Living With A Partner,Below high school,Hypertension,Diabetes,Normal,50-59,Overweight,4
+Female,Other,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Other,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Normal,60+,Obese,1
+Female,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Current,Almost non-drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Normal,Normal,50-59,Obese,4
+Male,Mexican American,"(3.666, 4.924]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,2
+Female,Non-Hispanic White,"(3.666, 4.924]",Vigorous activity,Former,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Normal,40-49,Obese,3
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"[1.049, 3.666]",Moderate activity,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Normal,0
+Male,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Normal,1
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Normal,60+,Normal,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Female,Non-Hispanic White,"(3.666, 4.924]",Vigorous activity,Former,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,40-49,Overweight,1
+Male,Mexican American,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Obese,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Prediabetes,Normal,60+,Obese,0
+Female,Non-Hispanic White,"(3.666, 4.924]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Overweight,3
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Current,Occasional drinker,PIR > 3.5,Living With A Partner,Below high school,Hypertension,Normal,Normal,40-49,Obese,4
+Female,Non-Hispanic Black,"(3.666, 4.924]",Sedentary,Current,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,0
+Female,Other,"(6.477, 20.970]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Normal,40-49,Obese,1
+Female,Mexican American,"(4.924, 6.477]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Hyperlipidemia,60+,Obese,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Never,Almost non-drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Obese,2
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"[1.049, 3.666]",Vigorous activity,Current,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,18-29,Overweight,1
+Female,Other,"(4.924, 6.477]",Moderate activity,Current,Almost non-drinker,PIR > 3.5,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Former,Frequent drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Normal,60+,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Mexican American,"(4.924, 6.477]",Other,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Normal,3
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,60+,Obese,2
+Female,Other,"(3.666, 4.924]",Moderate activity,Current,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Overweight,3
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Overweight,3
+Male,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,3
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Female,Mexican American,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Normal,60+,Obese,2
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,18-29,Obese,3
+Male,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Never,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,0
+Female,Other,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Diabetes,Hyperlipidemia,50-59,Obese,2
+Female,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,1
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Former,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Diabetes,Normal,50-59,Overweight,3
+Female,Non-Hispanic White,"(4.924, 6.477]",Sedentary,Never,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,0
+Male,Other,"(4.924, 6.477]",Sedentary,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Obese,1
+Female,Mexican American,"(3.666, 4.924]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Normal,Normal,60+,Overweight,4
+Female,Non-Hispanic White,"(4.924, 6.477]",Sedentary,Current,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Female,Mexican American,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Normal,50-59,Obese,3
+Female,Non-Hispanic White,"[1.049, 3.666]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,40-49,Underweight,3
+Female,Mexican American,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,40-49,Overweight,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Current,Occasional drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Prediabetes,Hyperlipidemia,30-39,Obese,0
+Male,Mexican American,"(6.477, 20.970]",Vigorous activity,Former,Frequent drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Other,"(3.666, 4.924]",Moderate activity,Former,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Normal,50-59,Normal,3
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Normal,40-49,Obese,3
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,60+,Obese,1
+Female,Non-Hispanic White,"(3.666, 4.924]",Sedentary,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,1
+Female,Other,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Hyperlipidemia,60+,Overweight,2
+Male,Non-Hispanic Black,"[1.049, 3.666]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Normal,60+,Normal,2
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,1
+Male,Mexican American,"(6.477, 20.970]",Vigorous activity,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Normal,50-59,Obese,3
+Female,Non-Hispanic White,"[1.049, 3.666]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Underweight,3
+Male,Other,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,0
+Male,Mexican American,"(4.924, 6.477]",Other,Former,Frequent drinker,PIR > 3.5,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Current,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,50-59,Obese,4
+Male,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Diabetes,Hyperlipidemia,40-49,Obese,0
+Female,Non-Hispanic White,"(3.666, 4.924]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,0
+Female,Non-Hispanic White,"(3.666, 4.924]",Other,Current,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,4
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Current,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Overweight,4
+Male,Non-Hispanic Black,"(3.666, 4.924]",Sedentary,Never,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Normal,60+,Normal,1
+Female,Non-Hispanic White,"(3.666, 4.924]",Other,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic White,"(6.477, 20.970]",Vigorous activity,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Prediabetes,Hyperlipidemia,30-39,Obese,0
+Female,Non-Hispanic White,"(3.666, 4.924]",Sedentary,Current,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Normal,40-49,Normal,3
+Male,Non-Hispanic White,"(3.666, 4.924]",Vigorous activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Overweight,0
+Female,Non-Hispanic White,"(3.666, 4.924]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Normal,Normal,50-59,Overweight,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Diabetes,Hyperlipidemia,50-59,Obese,3
+Male,Non-Hispanic White,"(3.666, 4.924]",Sedentary,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Normal,60+,Normal,1
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Prediabetes,Hyperlipidemia,18-29,Obese,2
+Male,Mexican American,"(6.477, 20.970]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Normal,60+,Overweight,1
+Male,Mexican American,"(6.477, 20.970]",Sedentary,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Normal,40-49,Obese,0
+Female,Other,"(3.666, 4.924]",Moderate activity,Former,Almost non-drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic White,"[1.049, 3.666]",Vigorous activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,30-39,Normal,3
+Female,Non-Hispanic White,"[1.049, 3.666]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Normal,3
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,1
+Male,Non-Hispanic White,"(3.666, 4.924]",Sedentary,Never,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Normal,50-59,Overweight,1
+Female,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic Black,"(4.924, 6.477]",Vigorous activity,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,30-39,Obese,3
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Overweight,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Current,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Prediabetes,Hyperlipidemia,50-59,Obese,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Prediabetes,Hyperlipidemia,30-39,Obese,0
+Male,Non-Hispanic Black,"[1.049, 3.666]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,50-59,Normal,2
+Male,Non-Hispanic White,"[1.049, 3.666]",Other,Current,Frequent drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Normal,50-59,Normal,3
+Male,Non-Hispanic White,"[1.049, 3.666]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,40-49,Normal,3
+Female,Non-Hispanic Black,"(3.666, 4.924]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,2
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,30-39,Overweight,3
+Male,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,30-39,Obese,0
+Female,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Current,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,30-39,Overweight,4
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Male,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Current,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Hyperlipidemia,50-59,Obese,2
+Male,Mexican American,"(6.477, 20.970]",Other,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Diabetes,Hyperlipidemia,40-49,Obese,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Current,Occasional drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Normal,1
+Female,Mexican American,"(6.477, 20.970]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,2
+Female,Other,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,2
+Male,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic White,"[1.049, 3.666]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Normal,18-29,Normal,3
+Male,Mexican American,"(4.924, 6.477]",Other,Former,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Diabetes,Normal,60+,Overweight,0
+Female,Other,"[1.049, 3.666]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Hyperlipidemia,60+,Underweight,2
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Current,Occasional drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Female,Mexican American,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Prediabetes,Hyperlipidemia,30-39,Overweight,2
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Current,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,30-39,Obese,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Other,"(6.477, 20.970]",Moderate activity,Never,Frequent drinker,PIR > 3.5,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(3.666, 4.924]",Other,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,40-49,Obese,3
+Male,Mexican American,"(3.666, 4.924]",Vigorous activity,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Normal,50-59,Overweight,3
+Female,Mexican American,"(6.477, 20.970]",Other,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Diabetes,Hyperlipidemia,50-59,Obese,3
+Male,Non-Hispanic White,"(3.666, 4.924]",Other,Current,Frequent drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Prediabetes,Hyperlipidemia,30-39,Overweight,4
+Female,Other,"(3.666, 4.924]",Moderate activity,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Prediabetes,Hyperlipidemia,50-59,Normal,3
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,50-59,Obese,1
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Prediabetes,Normal,60+,Overweight,0
+Female,Non-Hispanic White,"(4.924, 6.477]",Sedentary,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Female,Other,"(6.477, 20.970]",Vigorous activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic Black,"(3.666, 4.924]",Other,Current,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Diabetes,Hyperlipidemia,60+,Normal,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,2
+Female,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Current,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,4
+Male,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Never,Almost non-drinker,PIR > 3.5,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Mexican American,"(6.477, 20.970]",Vigorous activity,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Obese,2
+Female,Mexican American,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Male,Other,"(4.924, 6.477]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Female,Other,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,30-39,Obese,3
+Female,Non-Hispanic White,"[1.049, 3.666]",Moderate activity,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Underweight,1
+Female,Non-Hispanic Black,"[1.049, 3.666]",Other,Former,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Normal,60+,Normal,2
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Male,Mexican American,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic Black,"(4.924, 6.477]",Sedentary,Former,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Normal,2
+Female,Non-Hispanic Black,"[1.049, 3.666]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Normal,2
+Female,Non-Hispanic White,"(4.924, 6.477]",Vigorous activity,Current,Almost non-drinker,PIR > 3.5,Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,2
+Female,Non-Hispanic Black,"[1.049, 3.666]",Other,Current,Almost non-drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Prediabetes,Normal,40-49,Obese,0
+Female,Mexican American,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Overweight,0
+Male,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Overweight,0
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Current,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Male,Non-Hispanic Black,"(3.666, 4.924]",Other,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,2
+Female,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,1
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Current,Frequent drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Prediabetes,Hyperlipidemia,40-49,Overweight,4
+Male,Other,"(3.666, 4.924]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Overweight,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Vigorous activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Diabetes,Hyperlipidemia,18-29,Obese,3
+Female,Non-Hispanic White,"[1.049, 3.666]",Other,Current,Frequent drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,18-29,Normal,4
+Male,Mexican American,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Diabetes,Hyperlipidemia,60+,Obese,2
+Male,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Obese,2
+Female,Other,"(4.924, 6.477]",Moderate activity,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Prediabetes,Hyperlipidemia,50-59,Overweight,3
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Other,"(4.924, 6.477]",Other,Former,Frequent drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Normal,60+,Overweight,4
+Male,Other,"(4.924, 6.477]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,60+,Overweight,1
+Male,Non-Hispanic White,"[1.049, 3.666]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Normal,60+,Normal,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Prediabetes,Hyperlipidemia,40-49,Obese,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Current,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Normal,60+,Overweight,4
+Female,Other,"(4.924, 6.477]",Other,Current,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Female,Other,"(4.924, 6.477]",Other,Former,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Current,Almost non-drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Obese,3
+Male,Mexican American,"(3.666, 4.924]",Other,Former,Frequent drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Normal,1
+Female,Other,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Male,Mexican American,"(6.477, 20.970]",Vigorous activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Normal,50-59,Obese,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Former,Almost non-drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Frequent drinker,"(1.3,3.5]",Living Alone,Below high school,Normal,Normal,Normal,60+,Overweight,3
+Female,Other,"(6.477, 20.970]",Other,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Below high school,Normal,Normal,Hyperlipidemia,40-49,Obese,2
+Male,Other,"(4.924, 6.477]",Other,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,50-59,Obese,4
+Male,Non-Hispanic Black,"(4.924, 6.477]",Vigorous activity,Current,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Prediabetes,Hyperlipidemia,40-49,Obese,1
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Current,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Male,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Normal,60+,Overweight,1
+Male,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Prediabetes,Hyperlipidemia,60+,Obese,0
+Female,Other,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Former,Almost non-drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,1
+Male,Other,"(3.666, 4.924]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Normal,50-59,Obese,3
+Male,Non-Hispanic Black,"(4.924, 6.477]",Vigorous activity,Former,Frequent drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Diabetes,Normal,60+,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Diabetes,Normal,40-49,Obese,0
+Female,Other,"(4.924, 6.477]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Normal,50-59,Obese,2
+Female,Other,"(3.666, 4.924]",Other,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,3
+Female,Other,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Diabetes,Hyperlipidemia,40-49,Obese,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Obese,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Mexican American,"(6.477, 20.970]",Sedentary,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Male,Mexican American,"(4.924, 6.477]",Moderate activity,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Overweight,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Vigorous activity,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Prediabetes,Normal,30-39,Obese,3
+Male,Mexican American,"(3.666, 4.924]",Other,Never,Frequent drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Normal,0
+Female,Other,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Normal,30-39,Obese,3
+Male,Non-Hispanic White,"(4.924, 6.477]",Sedentary,Former,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Obese,1
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Prediabetes,Hyperlipidemia,50-59,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Other,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Current,Frequent drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Normal,60+,Obese,1
+Female,Other,"(4.924, 6.477]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,30-39,Obese,3
+Female,Mexican American,"(4.924, 6.477]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Obese,3
+Male,Mexican American,"[1.049, 3.666]",Other,Former,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,30-39,Overweight,4
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,4
+Male,Mexican American,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Normal,60+,Obese,0
+Female,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,3
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Normal,60+,Normal,1
+Female,Other,"(4.924, 6.477]",Moderate activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,50-59,Overweight,4
+Male,Non-Hispanic White,"(3.666, 4.924]",Other,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Diabetes,Normal,60+,Normal,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Vigorous activity,Former,Almost non-drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Male,Non-Hispanic Black,"[1.049, 3.666]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Normal,50-59,Normal,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Normal,40-49,Obese,2
+Male,Other,"(4.924, 6.477]",Other,Former,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Normal,40-49,Obese,2
+Female,Other,"(3.666, 4.924]",Moderate activity,Former,Almost non-drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Normal,50-59,Normal,1
+Male,Other,"(4.924, 6.477]",Other,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,50-59,Overweight,4
+Male,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Frequent drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Former,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Prediabetes,Hyperlipidemia,60+,Obese,2
+Male,Mexican American,"(4.924, 6.477]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,50-59,Overweight,3
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic White,"(4.924, 6.477]",Sedentary,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Normal,40-49,Normal,0
+Female,Non-Hispanic Black,"[1.049, 3.666]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,2
+Male,Other,"(3.666, 4.924]",Other,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,30-39,Overweight,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Prediabetes,Hyperlipidemia,50-59,Obese,0
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Normal,60+,Overweight,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,60+,Obese,0
+Male,Mexican American,"(6.477, 20.970]",Sedentary,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,1
+Male,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Current,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Normal,18-29,Overweight,1
+Female,Other,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Female,Other,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Former,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Normal,60+,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Mexican American,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,40-49,Obese,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,1
+Female,Other,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic Black,"(4.924, 6.477]",Vigorous activity,Never,Occasional drinker,PIR > 3.5,Living Alone,High school graduate,Normal,Normal,Normal,18-29,Overweight,3
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,1
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Current,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Prediabetes,Hyperlipidemia,40-49,Obese,1
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Vigorous activity,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,40-49,Obese,0
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Current,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,4
+Female,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Current,Frequent drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Hyperlipidemia,40-49,Overweight,2
+Female,Other,"(4.924, 6.477]",Moderate activity,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,50-59,Overweight,3
+Female,Other,"[1.049, 3.666]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Normal,2
+Male,Non-Hispanic White,"(3.666, 4.924]",Other,Former,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,40-49,Overweight,4
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Other,"(4.924, 6.477]",Other,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Overweight,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Former,Almost non-drinker,PIR > 3.5,Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,1
+Male,Non-Hispanic Black,"(4.924, 6.477]",Vigorous activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,18-29,Obese,2
+Female,Mexican American,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic Black,"(4.924, 6.477]",Vigorous activity,Never,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,1
+Female,Non-Hispanic Black,"[1.049, 3.666]",Vigorous activity,Never,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Normal,40-49,Overweight,2
+Female,Other,"(3.666, 4.924]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Normal,3
+Male,Other,"(4.924, 6.477]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Diabetes,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Former,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,60+,Normal,1
+Female,Other,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Female,Other,"(6.477, 20.970]",Other,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"[1.049, 3.666]",Other,Current,Frequent drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,2
+Female,Mexican American,"[1.049, 3.666]",Vigorous activity,Former,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,50-59,Normal,1
+Female,Other,"(3.666, 4.924]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,2
+Male,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Current,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Diabetes,Normal,60+,Obese,2
+Male,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Current,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,30-39,Obese,0
+Male,Other,"[1.049, 3.666]",Vigorous activity,Current,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Normal,18-29,Normal,1
+Female,Other,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,30-39,Obese,0
+Female,Other,"(4.924, 6.477]",Vigorous activity,Never,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Normal,Prediabetes,Normal,40-49,Overweight,3
+Male,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Other,"(6.477, 20.970]",Other,Former,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,2
+Male,Other,"(6.477, 20.970]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living With A Partner,High school graduate,Hypertension,Diabetes,Normal,50-59,Obese,1
+Female,Other,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,30-39,Obese,3
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Normal,60+,Overweight,2
+Male,Mexican American,"(4.924, 6.477]",Vigorous activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,40-49,Obese,0
+Male,Other,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Female,Mexican American,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Normal,40-49,Obese,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Current,Frequent drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Obese,1
+Female,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,PIR > 3.5,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Overweight,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Male,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,30-39,Obese,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Former,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Hyperlipidemia,60+,Overweight,2
+Female,Mexican American,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Other,"(6.477, 20.970]",Sedentary,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Normal,60+,Obese,2
+Female,Other,"(4.924, 6.477]",Vigorous activity,Never,Frequent drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Normal,50-59,Overweight,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Vigorous activity,Never,Almost non-drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,2
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Overweight,3
+Male,Other,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,30-39,Overweight,4
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Male,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Current,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Diabetes,Normal,40-49,Obese,1
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Current,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Normal,Diabetes,Hyperlipidemia,60+,Normal,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Vigorous activity,Former,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Normal,60+,Obese,1
+Male,Other,"(4.924, 6.477]",Other,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Overweight,3
+Female,Non-Hispanic White,"[1.049, 3.666]",Other,Never,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Normal,60+,Normal,0
+Female,Mexican American,"(4.924, 6.477]",Moderate activity,Never,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Prediabetes,Hyperlipidemia,50-59,Obese,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Current,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Overweight,4
+Female,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Never,Almost non-drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,2
+Male,Non-Hispanic White,"(3.666, 4.924]",Vigorous activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Prediabetes,Hyperlipidemia,60+,Overweight,0
+Male,Non-Hispanic Black,"[1.049, 3.666]",Moderate activity,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Normal,0
+Female,Mexican American,"(3.666, 4.924]",Vigorous activity,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,30-39,Normal,3
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Male,Other,"(3.666, 4.924]",Vigorous activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic Black,"(3.666, 4.924]",Other,Never,Almost non-drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Normal,60+,Normal,2
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Other,"(3.666, 4.924]",Moderate activity,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Diabetes,Hyperlipidemia,50-59,Normal,3
+Male,Non-Hispanic White,"(3.666, 4.924]",Other,Current,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,60+,Normal,4
+Female,Mexican American,"(6.477, 20.970]",Moderate activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Current,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Normal,40-49,Obese,1
+Male,Non-Hispanic Black,"(3.666, 4.924]",Other,Current,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic Black,"[1.049, 3.666]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,High school graduate,Hypertension,Normal,Normal,60+,Normal,2
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Current,Almost non-drinker,PIR <= 1.3,Living With A Partner,High school graduate,Normal,Normal,Normal,60+,Obese,4
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Current,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Normal,3
+Female,Non-Hispanic White,"[1.049, 3.666]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,60+,Normal,3
+Female,Non-Hispanic Black,"(3.666, 4.924]",Vigorous activity,Never,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,50-59,Overweight,2
+Female,Other,"[1.049, 3.666]",Other,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,18-29,Normal,3
+Female,Other,"(6.477, 20.970]",Other,Former,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,60+,Obese,1
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Former,Almost non-drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic Black,"(3.666, 4.924]",Vigorous activity,Never,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Overweight,3
+Female,Other,"(4.924, 6.477]",Other,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,60+,Obese,3
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Normal,30-39,Obese,1
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Current,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Obese,1
+Male,Other,"[1.049, 3.666]",Other,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Normal,Normal,60+,Normal,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,50-59,Obese,1
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Normal,60+,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Normal,50-59,Obese,3
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(3.666, 4.924]",Other,Former,Frequent drinker,"(1.3,3.5]",Living Alone,High school graduate,Normal,Normal,Normal,60+,Overweight,1
+Female,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Current,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Normal,60+,Obese,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,2
+Female,Non-Hispanic Black,"(3.666, 4.924]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,2
+Male,Non-Hispanic Black,"[1.049, 3.666]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Normal,60+,Normal,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Other,"(6.477, 20.970]",Vigorous activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Mexican American,"(3.666, 4.924]",Vigorous activity,Never,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Normal,30-39,Overweight,1
+Female,Mexican American,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Obese,3
+Male,Non-Hispanic White,"(4.924, 6.477]",Vigorous activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Obese,1
+Male,Mexican American,"(3.666, 4.924]",Vigorous activity,Never,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Overweight,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,0
+Female,Other,"(3.666, 4.924]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Normal,3
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,40-49,Obese,0
+Female,Non-Hispanic White,"[1.049, 3.666]",Vigorous activity,Never,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Normal,50-59,Normal,3
+Male,Other,"(6.477, 20.970]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Normal,50-59,Obese,1
+Male,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Former,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,1
+Female,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Almost non-drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Mexican American,"(3.666, 4.924]",Vigorous activity,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,0
+Male,Mexican American,"(3.666, 4.924]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Diabetes,Normal,60+,Overweight,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Normal,60+,Obese,0
+Male,Mexican American,"(3.666, 4.924]",Other,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Hyperlipidemia,40-49,Obese,2
+Female,Mexican American,"[1.049, 3.666]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Normal,50-59,Normal,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Vigorous activity,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,40-49,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Frequent drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Male,Other,"(4.924, 6.477]",Other,Former,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Prediabetes,Hyperlipidemia,50-59,Obese,3
+Female,Other,"[1.049, 3.666]",Other,Never,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Normal,60+,Normal,3
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Normal,50-59,Overweight,0
+Male,Non-Hispanic White,"[1.049, 3.666]",Vigorous activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,60+,Overweight,1
+Male,Mexican American,"(6.477, 20.970]",Other,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Prediabetes,Normal,60+,Obese,1
+Female,Non-Hispanic Black,"(6.477, 20.970]",Vigorous activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,0
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Former,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Mexican American,"(4.924, 6.477]",Vigorous activity,Former,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Diabetes,Hyperlipidemia,60+,Obese,4
+Male,Other,"[1.049, 3.666]",Moderate activity,Former,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Diabetes,Hyperlipidemia,60+,Normal,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Vigorous activity,Former,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,30-39,Obese,1
+Female,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Current,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,50-59,Overweight,4
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic Black,"(4.924, 6.477]",Vigorous activity,Never,Occasional drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,2
+Male,Non-Hispanic Black,"[1.049, 3.666]",Vigorous activity,Never,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Prediabetes,Normal,50-59,Normal,3
+Female,Other,"(3.666, 4.924]",Other,Current,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Normal,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Obese,2
+Male,Non-Hispanic Black,"(3.666, 4.924]",Sedentary,Former,Almost non-drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Normal,Normal,50-59,Overweight,4
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Normal,60+,Normal,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,40-49,Obese,2
+Male,Other,"(6.477, 20.970]",Other,Current,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,40-49,Obese,0
+Female,Non-Hispanic Black,"(3.666, 4.924]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,2
+Male,Other,"(3.666, 4.924]",Moderate activity,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Prediabetes,Hyperlipidemia,40-49,Overweight,1
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Prediabetes,Hyperlipidemia,50-59,Obese,2
+Male,Other,"(3.666, 4.924]",Vigorous activity,Current,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Prediabetes,Hyperlipidemia,40-49,Overweight,0
+Female,Mexican American,"[1.049, 3.666]",Other,Never,Almost non-drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Normal,50-59,Normal,3
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Frequent drinker,PIR > 3.5,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,1
+Female,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,60+,Normal,3
+Female,Non-Hispanic Black,"(3.666, 4.924]",Sedentary,Never,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,3
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,50-59,Obese,2
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Female,Other,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Overweight,2
+Male,Other,"(6.477, 20.970]",Sedentary,Former,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,40-49,Obese,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic White,"[1.049, 3.666]",Other,Current,Occasional drinker,PIR > 3.5,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,4
+Male,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Normal,50-59,Overweight,4
+Female,Non-Hispanic White,"(3.666, 4.924]",Other,Never,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Prediabetes,Hyperlipidemia,50-59,Normal,3
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic White,"(3.666, 4.924]",Vigorous activity,Former,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,40-49,Normal,1
+Male,Other,"(3.666, 4.924]",Vigorous activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Normal,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Female,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Overweight,3
+Female,Mexican American,"(6.477, 20.970]",Sedentary,Never,Frequent drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Current,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Mexican American,"(3.666, 4.924]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Female,Non-Hispanic White,"[1.049, 3.666]",Sedentary,Current,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Normal,3
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Normal,60+,Obese,2
+Female,Non-Hispanic Black,"[1.049, 3.666]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,50-59,Normal,2
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,60+,Overweight,2
+Male,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Current,Occasional drinker,"(1.3,3.5]",Living Alone,High school graduate,Normal,Normal,Normal,60+,Normal,1
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Normal,4
+Female,Non-Hispanic Black,"(3.666, 4.924]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,40-49,Overweight,3
+Female,Non-Hispanic Black,"[1.049, 3.666]",Sedentary,Current,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Prediabetes,Normal,50-59,Underweight,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Normal,40-49,Obese,2
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Current,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Prediabetes,Hyperlipidemia,60+,Obese,1
+Female,Mexican American,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Prediabetes,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic Black,"(3.666, 4.924]",Other,Current,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Normal,4
+Male,Non-Hispanic White,"(3.666, 4.924]",Vigorous activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Overweight,3
+Male,Other,"(3.666, 4.924]",Other,Current,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,40-49,Overweight,4
+Male,Other,"(3.666, 4.924]",Sedentary,Former,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Normal,60+,Normal,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,0
+Male,Non-Hispanic White,"(3.666, 4.924]",Other,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Diabetes,Hyperlipidemia,50-59,Obese,0
+Male,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Prediabetes,Normal,60+,Overweight,1
+Female,Other,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,High school graduate,Normal,Normal,Normal,40-49,Obese,2
+Male,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,1
+Female,Other,"(4.924, 6.477]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Almost non-drinker,PIR > 3.5,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Female,Mexican American,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Normal,2
+Male,Non-Hispanic Black,"(3.666, 4.924]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living Alone,Below high school,Normal,Normal,Hyperlipidemia,60+,Overweight,2
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Current,Frequent drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Other,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,60+,Obese,3
+Female,Non-Hispanic Black,"[1.049, 3.666]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,1
+Male,Mexican American,"(4.924, 6.477]",Other,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Diabetes,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Occasional drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Prediabetes,Hyperlipidemia,60+,Obese,2
+Male,Other,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Prediabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Overweight,3
+Male,Other,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,50-59,Obese,0
+Male,Other,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,30-39,Obese,0
+Female,Non-Hispanic White,"[1.049, 3.666]",Moderate activity,Current,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Normal,50-59,Underweight,3
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Normal,30-39,Obese,3
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Obese,1
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Prediabetes,Hyperlipidemia,60+,Obese,0
+Male,Other,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,4
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,60+,Obese,2
+Male,Other,"(3.666, 4.924]",Vigorous activity,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Normal,50-59,Overweight,1
+Male,Non-Hispanic White,"(3.666, 4.924]",Sedentary,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,0
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,2
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Current,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic Black,"(4.924, 6.477]",Sedentary,Never,Occasional drinker,PIR > 3.5,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Normal,2
+Male,Mexican American,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,0
+Female,Other,"(3.666, 4.924]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Normal,60+,Normal,2
+Female,Other,"(3.666, 4.924]",Sedentary,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,50-59,Overweight,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Prediabetes,Normal,40-49,Obese,1
+Female,Mexican American,"(6.477, 20.970]",Sedentary,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Obese,3
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,1
+Female,Mexican American,"(4.924, 6.477]",Vigorous activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Normal,50-59,Obese,3
+Female,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Former,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Normal,60+,Obese,2
+Male,Mexican American,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Other,"(3.666, 4.924]",Moderate activity,Never,Frequent drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,50-59,Overweight,0
+Female,Other,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Prediabetes,Hyperlipidemia,50-59,Overweight,4
+Male,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Current,Frequent drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,18-29,Obese,1
+Female,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Normal,4
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Former,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,30-39,Obese,3
+Female,Other,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR > 3.5,Living Alone,Below high school,Normal,Normal,Normal,60+,Obese,2
+Male,Non-Hispanic White,"(4.924, 6.477]",Sedentary,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Normal,60+,Overweight,1
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Current,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Former,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,1
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Former,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Diabetes,Hyperlipidemia,60+,Obese,1
+Female,Other,"[1.049, 3.666]",Moderate activity,Current,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Normal,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Normal,40-49,Obese,2
+Male,Non-Hispanic White,"(4.924, 6.477]",Vigorous activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Normal,30-39,Obese,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Male,Non-Hispanic Black,"[1.049, 3.666]",Other,Former,Frequent drinker,PIR <= 1.3,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,60+,Normal,1
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,0
+Male,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Current,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Normal,50-59,Normal,1
+Female,Other,"(6.477, 20.970]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,30-39,Obese,1
+Male,Other,"(4.924, 6.477]",Vigorous activity,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Diabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic Black,"[1.049, 3.666]",Other,Former,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Normal,60+,Underweight,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Current,Frequent drinker,PIR > 3.5,Living Alone,High school graduate,Hypertension,Prediabetes,Hyperlipidemia,40-49,Obese,1
+Female,Non-Hispanic Black,"(6.477, 20.970]",Vigorous activity,Never,Almost non-drinker,PIR > 3.5,Living Alone,Above high school,Normal,Normal,Normal,60+,Obese,2
+Male,Other,"(4.924, 6.477]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,60+,Overweight,1
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,High school graduate,Normal,Diabetes,Hyperlipidemia,40-49,Overweight,4
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Current,Occasional drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Diabetes,Hyperlipidemia,50-59,Overweight,0
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,0
+Female,Other,"(6.477, 20.970]",Moderate activity,Never,Frequent drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Male,Non-Hispanic White,"(3.666, 4.924]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Other,"[1.049, 3.666]",Moderate activity,Current,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,40-49,Normal,2
+Male,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Female,Other,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Prediabetes,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Former,Occasional drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Obese,2
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Male,Non-Hispanic Black,"(6.477, 20.970]",Vigorous activity,Never,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Obese,2
+Male,Other,"(3.666, 4.924]",Vigorous activity,Former,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,60+,Overweight,1
+Female,Non-Hispanic Black,"(4.924, 6.477]",Vigorous activity,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Male,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Normal,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Vigorous activity,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Normal,40-49,Obese,0
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,3
+Female,Other,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,2
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Almost non-drinker,PIR <= 1.3,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,60+,Obese,2
+Female,Other,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Diabetes,Hyperlipidemia,60+,Overweight,0
+Female,Other,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Prediabetes,Hyperlipidemia,50-59,Overweight,4
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic Black,"(4.924, 6.477]",Sedentary,Former,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Normal,Prediabetes,Hyperlipidemia,50-59,Obese,3
+Male,Non-Hispanic Black,"(3.666, 4.924]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,60+,Normal,2
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Other,"(6.477, 20.970]",Moderate activity,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(4.924, 6.477]",Vigorous activity,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Diabetes,Hyperlipidemia,60+,Overweight,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Current,Occasional drinker,PIR > 3.5,Living Alone,High school graduate,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,4
+Female,Other,"(4.924, 6.477]",Vigorous activity,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Normal,50-59,Obese,3
+Male,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Below high school,Normal,Normal,Normal,60+,Obese,1
+Male,Non-Hispanic White,"(3.666, 4.924]",Other,Former,Frequent drinker,PIR > 3.5,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,1
+Male,Non-Hispanic Black,"[1.049, 3.666]",Sedentary,Current,Frequent drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Underweight,1
+Male,Other,"(4.924, 6.477]",Other,Never,Frequent drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"[1.049, 3.666]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Normal,60+,Normal,1
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Normal,60+,Obese,2
+Female,Other,"(4.924, 6.477]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Diabetes,Hyperlipidemia,60+,Normal,0
+Male,Other,"[1.049, 3.666]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,50-59,Normal,0
+Male,Other,"(3.666, 4.924]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,30-39,Overweight,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Current,Occasional drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Male,Non-Hispanic Black,"[1.049, 3.666]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Normal,60+,Normal,2
+Male,Non-Hispanic White,"(3.666, 4.924]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,40-49,Overweight,4
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Current,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic White,"[1.049, 3.666]",Moderate activity,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Normal,50-59,Normal,1
+Female,Other,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Mexican American,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,30-39,Obese,0
+Female,Non-Hispanic White,"(3.666, 4.924]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Normal,50-59,Normal,3
+Female,Other,"(6.477, 20.970]",Other,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Prediabetes,Normal,50-59,Obese,0
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Current,Frequent drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Male,Non-Hispanic White,"(6.477, 20.970]",Vigorous activity,Former,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Former,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Diabetes,Normal,60+,Obese,2
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Male,Mexican American,"(6.477, 20.970]",Vigorous activity,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic Black,"(4.924, 6.477]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Diabetes,Normal,40-49,Obese,3
+Female,Non-Hispanic White,"[1.049, 3.666]",Moderate activity,Current,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Normal,30-39,Normal,4
+Female,Non-Hispanic Black,"(6.477, 20.970]",Vigorous activity,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Normal,18-29,Obese,3
+Female,Mexican American,"[1.049, 3.666]",Other,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Below high school,Normal,Diabetes,Normal,30-39,Normal,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,50-59,Overweight,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,50-59,Obese,2
+Female,Other,"(4.924, 6.477]",Other,Current,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Diabetes,Hyperlipidemia,50-59,Obese,4
+Female,Other,"(3.666, 4.924]",Moderate activity,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Normal,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living Alone,Below high school,Hypertension,Normal,Normal,60+,Obese,2
+Female,Non-Hispanic White,"(4.924, 6.477]",Vigorous activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,3
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Prediabetes,Hyperlipidemia,50-59,Obese,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,2
+Female,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Never,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,2
+Male,Mexican American,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,4
+Female,Other,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Overweight,3
+Female,Non-Hispanic White,"(3.666, 4.924]",Other,Former,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Normal,1
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Occasional drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"[1.049, 3.666]",Other,Current,Frequent drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Normal,50-59,Underweight,3
+Female,Non-Hispanic Black,"[1.049, 3.666]",Other,Never,Almost non-drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Normal,2
+Male,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,30-39,Overweight,4
+Female,Other,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Diabetes,Hyperlipidemia,50-59,Obese,3
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,18-29,Obese,1
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,50-59,Overweight,0
+Female,Other,"(6.477, 20.970]",Other,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Male,Non-Hispanic White,"(6.477, 20.970]",Vigorous activity,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,40-49,Obese,0
+Female,Other,"(3.666, 4.924]",Other,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,0
+Female,Other,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Male,Other,"(4.924, 6.477]",Other,Never,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Overweight,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Current,Almost non-drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Female,Other,"(4.924, 6.477]",Vigorous activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Overweight,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Occasional drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Obese,2
+Female,Other,"(6.477, 20.970]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Other,"(3.666, 4.924]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Normal,30-39,Normal,3
+Female,Mexican American,"(4.924, 6.477]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,3
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Normal,Normal,50-59,Overweight,3
+Male,Non-Hispanic Black,"[1.049, 3.666]",Moderate activity,Former,Frequent drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Normal,60+,Normal,1
+Male,Non-Hispanic White,"(3.666, 4.924]",Other,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Normal,40-49,Normal,1
+Female,Non-Hispanic Black,"(4.924, 6.477]",Sedentary,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Diabetes,Hyperlipidemia,50-59,Overweight,3
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR > 3.5,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Obese,0
+Female,Other,"(6.477, 20.970]",Other,Former,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Former,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Overweight,4
+Male,Mexican American,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Diabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic Black,"(3.666, 4.924]",Other,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Normal,Normal,Normal,30-39,Overweight,4
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,0
+Male,Non-Hispanic Black,"(6.477, 20.970]",Sedentary,Former,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Former,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,1
+Male,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,1
+Female,Non-Hispanic Black,"[1.049, 3.666]",Sedentary,Never,Almost non-drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Normal,2
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Almost non-drinker,PIR > 3.5,Living With A Partner,High school graduate,Normal,Diabetes,Hyperlipidemia,40-49,Obese,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic White,"(3.666, 4.924]",Moderate activity,Former,Frequent drinker,"(1.3,3.5]",Living With A Partner,Below high school,Normal,Normal,Hyperlipidemia,60+,Overweight,1
+Female,Mexican American,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Diabetes,Hyperlipidemia,60+,Overweight,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Current,Frequent drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Obese,2
+Male,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Never,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Prediabetes,Hyperlipidemia,50-59,Obese,2
+Male,Non-Hispanic Black,"[1.049, 3.666]",Moderate activity,Former,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Normal,1
+Female,Other,"(4.924, 6.477]",Vigorous activity,Current,Almost non-drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,4
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,Above high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,0
+Female,Other,"(4.924, 6.477]",Other,Current,Almost non-drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,50-59,Overweight,4
+Male,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Former,Almost non-drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"(3.666, 4.924]",Other,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,1
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Male,Non-Hispanic Black,"(3.666, 4.924]",Other,Current,Frequent drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Normal,60+,Normal,4
+Male,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Never,Frequent drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Normal,40-49,Overweight,2
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,2
+Male,Non-Hispanic White,"[1.049, 3.666]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Underweight,1
+Male,Other,"(3.666, 4.924]",Other,Current,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Normal,Normal,Normal,18-29,Overweight,3
+Female,Non-Hispanic White,"(3.666, 4.924]",Sedentary,Never,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Overweight,3
+Female,Non-Hispanic White,"(3.666, 4.924]",Vigorous activity,Former,Almost non-drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Normal,2
+Female,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Never,Occasional drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,1
+Male,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Obese,1
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Occasional drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Prediabetes,Hyperlipidemia,60+,Overweight,0
+Male,Other,"(4.924, 6.477]",Other,Former,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic Black,"(3.666, 4.924]",Vigorous activity,Former,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,1
+Male,Non-Hispanic White,"(6.477, 20.970]",Other,Current,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Normal,30-39,Obese,0
+Male,Non-Hispanic White,"(6.477, 20.970]",Vigorous activity,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,18-29,Obese,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(4.924, 6.477]",Vigorous activity,Never,Frequent drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,60+,Overweight,3
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Normal,50-59,Obese,2
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Almost non-drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Normal,60+,Overweight,1
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Former,Almost non-drinker,PIR <= 1.3,Living With A Partner,Below high school,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Male,Non-Hispanic White,"(4.924, 6.477]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Diabetes,Normal,60+,Overweight,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Normal,60+,Obese,0
+Female,Non-Hispanic White,"(4.924, 6.477]",Other,Current,Occasional drinker,"(1.3,3.5]",Living Alone,High school graduate,Normal,Normal,Hyperlipidemia,50-59,Obese,3
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Current,Occasional drinker,PIR > 3.5,Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Overweight,4
+Female,Other,"(4.924, 6.477]",Vigorous activity,Former,Occasional drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Prediabetes,Hyperlipidemia,60+,Overweight,3
+Male,Non-Hispanic White,"(4.924, 6.477]",Vigorous activity,Former,Occasional drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,30-39,Obese,0
+Female,Mexican American,"(4.924, 6.477]",Other,Never,Almost non-drinker,PIR <= 1.3,Living Alone,Below high school,Normal,Normal,Hyperlipidemia,60+,Normal,2
+Male,Non-Hispanic White,"(6.477, 20.970]",Moderate activity,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Prediabetes,Hyperlipidemia,60+,Obese,1
+Female,Non-Hispanic Black,"(4.924, 6.477]",Vigorous activity,Current,Frequent drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Hyperlipidemia,40-49,Obese,1
+Male,Non-Hispanic Black,"[1.049, 3.666]",Other,Former,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,60+,Normal,0
+Male,Other,"(4.924, 6.477]",Moderate activity,Former,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Overweight,1
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Current,Occasional drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Male,Non-Hispanic Black,"(4.924, 6.477]",Other,Former,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Former,Frequent drinker,PIR <= 1.3,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Obese,3
+Female,Non-Hispanic Black,"(4.924, 6.477]",Moderate activity,Never,Almost non-drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,40-49,Obese,3
+Female,Non-Hispanic White,"(6.477, 20.970]",Sedentary,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,50-59,Obese,0
+Female,Non-Hispanic Black,"(3.666, 4.924]",Moderate activity,Never,Occasional drinker,PIR <= 1.3,Living With A Partner,Above high school,Hypertension,Normal,Hyperlipidemia,60+,Normal,2
+Male,Non-Hispanic White,"[1.049, 3.666]",Other,Former,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Normal,50-59,Normal,3
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Male,Non-Hispanic Black,"(3.666, 4.924]",Sedentary,Current,Occasional drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Normal,0
+Female,Other,"(3.666, 4.924]",Other,Current,Almost non-drinker,PIR <= 1.3,Living With A Partner,High school graduate,Normal,Normal,Hyperlipidemia,60+,Normal,4
+Male,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic White,"(6.477, 20.970]",Other,Never,Frequent drinker,PIR > 3.5,Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,30-39,Obese,3
+Male,Non-Hispanic Black,"(4.924, 6.477]",Vigorous activity,Never,Almost non-drinker,PIR > 3.5,Living Alone,Above high school,Hypertension,Normal,Normal,40-49,Obese,1
+Male,Other,"(6.477, 20.970]",Other,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Below high school,Hypertension,Diabetes,Hyperlipidemia,50-59,Obese,0
+Female,Other,"(4.924, 6.477]",Other,Never,Occasional drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Normal,40-49,Obese,3
+Female,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Frequent drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
+Female,Non-Hispanic White,"(4.924, 6.477]",Vigorous activity,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Normal,Normal,Normal,40-49,Overweight,4
+Female,Non-Hispanic White,"[1.049, 3.666]",Moderate activity,Current,Occasional drinker,"(1.3,3.5]",Living Alone,Above high school,Normal,Normal,Hyperlipidemia,30-39,Normal,3
+Male,Non-Hispanic Black,"(3.666, 4.924]",Other,Current,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Diabetes,Hyperlipidemia,60+,Normal,0
+Male,Non-Hispanic Black,"[1.049, 3.666]",Moderate activity,Current,Occasional drinker,PIR <= 1.3,Living With A Partner,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Normal,4
+Male,Non-Hispanic Black,"(6.477, 20.970]",Moderate activity,Never,Almost non-drinker,"(1.3,3.5]",Living With A Partner,Above high school,Normal,Normal,Hyperlipidemia,60+,Obese,0
+Female,Non-Hispanic White,"(4.924, 6.477]",Moderate activity,Never,Frequent drinker,PIR <= 1.3,Living Alone,Above high school,Normal,Normal,Normal,50-59,Overweight,3
+Male,Non-Hispanic Black,"[1.049, 3.666]",Moderate activity,Current,Occasional drinker,PIR <= 1.3,Living Alone,High school graduate,Hypertension,Diabetes,Hyperlipidemia,60+,Normal,0
+Female,Non-Hispanic Black,"(6.477, 20.970]",Other,Never,Almost non-drinker,"(1.3,3.5]",Living Alone,High school graduate,Hypertension,Normal,Hyperlipidemia,60+,Obese,2
